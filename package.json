@@ -1,7 +1,7 @@
 {
   "name": "curso-cypress-v2",
   "version": "1.0.0",
-  "description": "Repositório da versão 2 do curso básico de Cypress da Escola Talking About Testing",
+  "description": "Repositório para o projeto de automação de testes para a Produttivo",
   "main": "./src/index.html",
   "scripts": {
     "cy:open": "cypress open",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/cypress-basico-v2.git"
+    "url": "git+https://github.com/PhelipeRib/produttivo-projeto-cypress.git"
   },
   "keywords": [
     "Testing",
@@ -20,7 +20,7 @@
   ],
   "author": "Phelipe Ribeiro <phelipe.ribeiroop@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme",
+  "homepage": "https://github.com/PhelipeRib/produttivo-projeto-cypress#readme",
   "devDependencies": {
     "cypress": "^9.5.1"
   }
