@@ -1,5 +1,5 @@
 {
-  "name": "curso-cypress-v2",
+  "name": "projeto-automacao-cypress",
   "version": "1.0.0",
   "description": "Repositório para o projeto de automação de testes para a Produttivo",
   "main": "./src/index.html",
